@@ -1,0 +1,14 @@
+{
+    "name": "jdmmswoft/captcha",
+    "type": "library",
+    "description": "生成验证码的包",
+    "license": "Apache-2.0",
+    "require": {
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jdmm\\Captcha\\": "src/"
+        }
+    }
+}
